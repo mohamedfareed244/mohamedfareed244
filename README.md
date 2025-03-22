@@ -45,11 +45,11 @@ I love crafting efficient solutions, optimizing performance, and continuously le
 
 ## 🌟 Notable Projects  
 
-🔹 **TechShield** – A cybersecurity training platform with real-world attack simulations  
-🔹 **Volunteens** – A volunteer management app built with Flutter and Firebase  
-🔹 **Tabibi** – A scalable healthcare web app using Spring Boot and microservices  
-🔹 **Profit Gym** – A gym ERP system for client and coach management  
-🔹 **Home Made Food Web App** – An e-commerce platform for local businesses  
+- **TechShield** – A cybersecurity training platform with real-world attack simulations  
+- **Volunteens** – A volunteer management app built with Flutter and Firebase  
+- **Tabibi** – A scalable healthcare web app using Spring Boot and microservices  
+- **Profit Gym** – A gym ERP system for client and coach management  
+- **Home Made Food Web App** – An e-commerce platform for local businesses  
 
 ---
 
@@ -68,12 +68,7 @@ I love crafting efficient solutions, optimizing performance, and continuously le
 
 ---
 
-## 🚀 GitHub Stats  
 
-![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedfareed244&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedfareed244&layout=compact&theme=radical)  
-
----
 
 ## 💡 Fun Fact  
 
